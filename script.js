@@ -25,7 +25,6 @@ const perguntas = [
                 texto: "A luta contra a homofobia busca construir uma sociedade mais justa e igualitária, onde o respeito à individualidade é primordial. Essa mentalidade de respeito pode ser estendida ao meio ambiente e à fauna. A Semana Farroupilha, por sua vez, ao valorizar a conexão com a terra e o campo, pode reforçar a ideia de que a preservação ambiental é uma herança a ser mantida.",
                 afirmacao: "A união desses valores pode inspirar ações de consumo consciente e apoio a projetos de conservação ambiental em comunidades rurais do Sul do Brasil.
 
-"
             },
             {
                 texto: " Combater a homofobia envolve questionar preconceitos e estereótipos, o que pode abrir a mente para novas perspectivas sobre como nos relacionamos com o mundo. A Semana Farroupilha, com sua ênfase na vida campeira e na relação com a natureza, pode ser o cenário para promover a adoção de práticas agrícolas sustentáveis e o uso responsável dos recursos naturais.",
