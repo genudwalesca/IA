@@ -37,38 +37,38 @@ const perguntas = [
         enunciado: "Quais estratégias de comunicação que abordam a homofobia poderiam ser adaptadas para conscientizar o público da Semana Farroupilha sobre a extinção de animais, mantendo o respeito às particularidades de cada tema?",
         alternativas: [
             {
-                texto: "Campanhas que utilizam narrativas pessoais e depoimentos, eficazes na luta contra a homofobia, poderiam ser adaptadas para a conscientização ambiental. Durante a Semana Farroupilha, poderiam ser apresentadas histórias de produtores rurais que adotam práticas sustentáveis para proteger a fauna local, ou relatos de como a extinção de uma espécie afeta o equilíbrio de um ecossistema.",
-                afirmacao: "afirmação"
+                texto: " Campanhas que utilizam narrativas pessoais e depoimentos, eficazes na luta contra a homofobia, poderiam ser adaptadas para a conscientização ambiental. Durante a Semana Farroupilha, poderiam ser apresentadas histórias de produtores rurais que adotam práticas sustentáveis para proteger a fauna local, ou relatos de como a extinção de uma espécie afeta o equilíbrio de um ecossistema.",
+                afirmacao: "A chave é criar uma conexão emocional com o público, assim como se faz ao abordar a homofobia, mostrando o impacto real nas vidas (humanas e animais)."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "afirmação"
+                texto: "O uso de elementos artísticos e culturais, como músicas, poesias e peças teatrais que abordam a homofobia, pode ser replicado na Semana Farroupilha para falar sobre a extinção animal. Poderiam ser criadas letras de músicas gaúchas que falassem sobre a beleza da fauna nativa e a urgência de sua preservação, ou encenações que retratassem o drama da perda de habitats.",
+                afirmacao: "A utilização de ícones e símbolos regionais pode potencializar a mensagem e torná-la mais próxima da realidade do público gaúcho"
             }
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Como a inclusão de debates sobre homofobia na programação da Semana Farroupilha pode, indiretamente, contribuir para o engajamento da comunidade na proteção de espécies ameaçadas de extinção?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "afirmação"
+                texto: "A inclusão de debates sobre homofobia na Semana Farroupilha pode promover um ambiente de maior aceitação e respeito às diferenças. Uma comunidade que aprende a valorizar a diversidade humana está mais propensa a valorizar também a diversidade da vida em geral, incluindo a animal.",
+                afirmacao: "Ao combater a intolerância em uma esfera, cria-se um precedente para a tolerância em outras, pavimentando o caminho para o engajamento em causas ambientais."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "afirmação"
+                texto: "Discutir a homofobia na Semana Farroupilha pode desafiar preconceitos e abrir espaço para o pensamento crítico. Essa capacidade de questionar e de se informar pode ser transferida para a questão da extinção animal, incentivando as pessoas a buscar informações sobre as causas e soluções para o problema.",
+                afirmacao: "A conscientização sobre a complexidade da homofobia pode, de forma análoga, levar a um maior entendimento sobre a complexidade das relações ecológicas e a necessidade de preservação."
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "De que forma a celebração da identidade e da tradição na Semana Farroupilha pode ser um ponto de partida para abordar a homofobia e, ao mesmo tempo, incentivar a conservação da fauna silvestre local?",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "afirmação"
+                texto: "A Semana Farroupilha, ao celebrar a identidade gaúcha, pode enfatizar que essa identidade é construída sobre valores como o respeito e a camaradagem. Esses mesmos valores podem ser expandidos para incluir o respeito à diversidade sexual e à vida selvagem. Poderiam ser organizadas palestras com historiadores e naturalistas que explicassem como a fauna local faz parte da identidade e da história do Rio Grande do Sul.",
+                afirmacao: "A valorização da herança cultural pode incluir a herança ambiental, mostrando que ambas estão intrinsecamente ligadas."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "afirmação"
+                texto: " A tradição da Semana Farroupilha, com seus rodeios e acampamentos, pode ser usada como um palco para a conscientização. Poderiam ser promovidas exposições de fotos da fauna nativa, com informações sobre espécies ameaçadas, ou até mesmo atividades educativas para crianças que ensinassem sobre a importância da biodiversidade. Ao mesmo tempo, debates sobre homofobia poderiam ser inseridos em espaços abertos, utilizando a informalidade do evento para desmistificar o tema.",
+                afirmacao: "A celebração da cultura e da vida campeira pode ser um convite à reflexão sobre a responsabilidade humana na preservação de todos os seres vivos."
             }
         ]
     },
