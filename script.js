@@ -106,7 +106,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Walesca";
+    caixaPerguntas.textContent = "Conclusão";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
